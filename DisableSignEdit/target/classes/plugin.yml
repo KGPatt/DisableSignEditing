@@ -1,0 +1,5 @@
+name: DisableSignEdit
+version: '1.0'
+main: com.kgpatt.disablesignedit.DisableSignEdit
+api-version: 1.20
+description: 'Disables sign editing via disabling Right Clicking on them.'
